@@ -7,7 +7,7 @@ public class Aufgabe4 {
         boolean[] primZahlen = new boolean[150];
 
         /* Starten bei 2. 0 & 1 sind keine Primzahlen,
-         * Alle anderen werden erstmal auf true gesetzt bis wir
+         * Alle anderen werden erstmal auf true gesetzt
          * bis wir das gegenteil beweisen
          */
         for (int i = 2; i < primZahlen.length; i++) {
