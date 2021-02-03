@@ -4,7 +4,7 @@ public class Aufgabe4 {
     public static void main(String[] args) {
 
         // boolean Array Primzahlen
-        boolean[] primZahlen = new boolean[50];
+        boolean[] primZahlen = new boolean[150];
 
         /* Starten bei 2. 0 & 1 sind keine Primzahlen,
          * Alle anderen werden erstmal auf true gesetzt bis wir

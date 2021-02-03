@@ -8,7 +8,7 @@ public class Aufgabe1 {
 
         for(int i = 0; i < arrayInt.length; i++){
             if(arrayInt[i] > 0){
-                System.out.println("Positive Zahl gefunden: " + arrayInt[i]);
+                System.out.println("Positive Zahl gefunden: " + arrayInt[i] + " Position: " + i);
                 break;
             }
         }
